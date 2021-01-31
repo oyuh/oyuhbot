@@ -1,0 +1,29 @@
+{
+  "name": "oyuhbot",
+  "version": "0.0.1",
+  "description": "My bot for things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyuh/oyuhbot.git"
+  },
+  "keywords": [
+    "oyuhbot",
+    "bot",
+    "minecrafrank",
+    "sync"
+  ],
+  "author": "oyuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyuh/oyuhbot/issues"
+  },
+  "homepage": "https://github.com/oyuh/oyuhbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "env": "0.0.2"
+  }
+}
